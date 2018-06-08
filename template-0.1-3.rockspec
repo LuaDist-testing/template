@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "template"
-version = "0.1-2"
+version = "0.1-3"
 
 -- LuaDist source
 source = {
-  tag = "0.1-2",
+  tag = "0.1-3",
   url = "git://github.com/LuaDist-testing/template.git"
 }
 -- Original source
